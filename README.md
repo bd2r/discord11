@@ -35,6 +35,12 @@ FriendGrid by **[CorellanStoma](https://github.com/CreArts-Community/Friends-Gri
 # New Message bubble (Not work with Compact Mode)
 ![Discord_nvXHiVWXFU](https://user-images.githubusercontent.com/79029257/157095553-661735a0-69a1-48b4-adf7-451cea592abc.png)
 
+# Real Creator
+
+if you find this the real creator is
+
+**[Zuzumi-f](https://github.com/zuzumi-f)**
+
 # I use Horizontal Server List
 This code made HSL compatible with the theme
 ```css
