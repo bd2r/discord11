@@ -7,7 +7,9 @@ if you find this the real creator is
 
 # want more colors?
 
-if you want more colors than grey mension me in 
+if you want more colors more than grey tell me in the Zumzumi-f discord server
+
+link:**[Discord].(https://discord.gg/PsNtzGeHuW)
 
 # Discord-11
 Theme based in windows 11 new UI
