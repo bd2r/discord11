@@ -2,6 +2,13 @@
 
 if you find this the real creator is
 
+[zuzumi-f].(https://github.com/zuzumi-f)
+
+
+# want more colors?
+
+if you want more colors than grey mension me in 
+
 # Discord-11
 Theme based in windows 11 new UI
 
