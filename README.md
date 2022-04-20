@@ -2,7 +2,7 @@
 
 if you find this the real creator is
 
-![zuzumi-f].(https://github.com/zuzumi-f)
+**[zuzumi-f].(https://github.com/zuzumi-f)**
 
 
 # want more colors?
